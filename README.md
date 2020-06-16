@@ -2,8 +2,6 @@
     <img alt="Logo" title="NotiFlame" src="images/NotiFlame.svg" width="220px" />
 </h1>
 
-<hr>
-
 <p align="center">
   <a href="#projeto">Projeto</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -14,13 +12,11 @@
   <a href="#arquitetura-do-sistema">Arquitetura</a>
 </p>
 
-<hr>
 
 <h1 align="center">
     <img alt="Telas" title="App" src="images/Telas.svg" width="100%"/>
 </h1>
 
-<hr/>
 
 ## ✦ Projeto
 <br>
@@ -70,5 +66,4 @@ A seguir, uma representação simbólica da arquitetura de comunicação entre o
 </h1>
 
 ---
-
 O projeto foi desenvolvido, para fins didáticos, durante a disciplina de Sistemas Embarcados do curso de Bacharelado em Ciência da Computação – Campus Florestal
