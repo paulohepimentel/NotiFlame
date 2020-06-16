@@ -57,5 +57,5 @@ A seguir, uma representação simbólica da arquitetura de comunicação entre o
 
 ---
 <p align="justify">
-O projeto foi desenvolvido, para fins didáticos, durante a disciplina de Sistemas Embarcados do curso de Bacharelado em Ciência da Computação – Campus Florestal
+O projeto foi desenvolvido, para fins didáticos, durante a disciplina de Sistemas Embarcados do curso de Bacharelado em Ciência da Computação da UFV – Campus Florestal
 </p>
