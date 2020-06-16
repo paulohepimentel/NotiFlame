@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Logo" title="NotiFlame" src=".doc/NotiFlame.svg" width="220px" />
+    <img alt="Logo" title="NotiFlame" src="images/NotiFlame.svg" width="220px" />
 </h1>
 
 <hr>
@@ -17,7 +17,7 @@
 <hr>
 
 <h1 align="center">
-    <img alt="Telas" title="App" src=".doc/Telas.svg" width="100%"/>
+    <img alt="Telas" title="App" src="images/Telas.svg" width="100%"/>
 </h1>
 
 <hr/>
@@ -56,7 +56,7 @@ Segue abaixo uma representação simbólica dos sensores, jumpers e do microcont
 </div>
 
 <h1 align="center">
-    <img alt="Protoboard" title="Esquema" src=".doc/Protoboard.png" width="45%" />
+    <img alt="Protoboard" title="Esquema" src="images/Protoboard.png" width="45%" />
 </h1>
 
 ## ✦ Arquitetura do Sistema
@@ -66,7 +66,7 @@ A seguir, uma representação simbólica da arquitetura de comunicação entre o
 </div>
 
 <h1 align="center">
-    <img alt="Arquitetura" title="Esquema" src=".doc/Esquema.svg" width="80%" />
+    <img alt="Arquitetura" title="Esquema" src="images/Esquema.svg" width="80%" />
 </h1>
 
 ---
