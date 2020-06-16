@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Logo" title="NotiFlame" src="images/NotiFlame.svg" width="220px" />
+    <img alt="Logo" title="NotiFlame" src="images/NotiFlame.svg" width="300px" />
 </h1>
 
 <p align="center">
@@ -12,23 +12,19 @@
   <a href="#arquitetura-do-sistema">Arquitetura</a>
 </p>
 
-
 <h1 align="center">
     <img alt="Telas" title="App" src="images/Telas.svg" width="100%"/>
 </h1>
 
-
 ## ✦ Projeto
-<br>
-<div style="text-align: justify">
+<p align="justify">
 O módulo NotiFlame é composto por um sistema embarcado e um aplicativo que tem como função primordial empregar o papel de interface homem-máquina, ou seja, realizar a comunicação entre os sistemas de um modo mais simples e intuitivo. O módulo embarcado é composto por dois sensores e um buzzer. Os dois primeiros são responsáveis por detectar tanto incêndio quanto um gás no ambiente que possa provocar o mesmo. O buzzer consiste basicamente de um alarme físico caso o usuário não tome conhecimento do perigo através do aplicativo (notificação).
-</div>
+</p>
 
 ## ✦ Tecnologias
-<br>
 <div style="text-align: justify">
 Esse projeto foi desenvolvido com as seguintes tecnologias:
-
+</div>
 **Hardware:**
 - [ESP32](https://www.espressif.com/en/products/socs/esp32/overview)
 - Sensores:
@@ -41,10 +37,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Flutter](https://flutter.dev/)
 - [Google Cloud | IOT](https://cloud.google.com/solutions/iot?hl=pt-br)
 - [Firebase | Cloud Firestore ](https://firebase.google.com/docs/firestore)
-</div>
 
 ## ✦ Protótipo do Hardware
-<br>
 <div style="text-align: justify">
 Segue abaixo uma representação simbólica dos sensores, jumpers e do microcontrolador ESP32 utilizados para a construção do módulo físico. O diagrama foi elaborado utilizando o software <a href="https://fritzing.org/home/">Fritzing</a>
 </div>
@@ -54,7 +48,6 @@ Segue abaixo uma representação simbólica dos sensores, jumpers e do microcont
 </h1>
 
 ## ✦ Arquitetura do Sistema
-<br>
 <div style="text-align: justify">
 A seguir, uma representação simbólica da arquitetura de comunicação entre o dispositivo mobile e a nuvem. Os dados interpretados pelo microcontrolador são enviados para o Google Cloud e esses por sua vez são armazenados no Cloud Firestore, um banco de dados NoSQL. O usuário com acesso pode consultar esses dados pelo aplicativo, na aba: Dashboard
 </div>
