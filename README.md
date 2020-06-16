@@ -22,9 +22,8 @@ O módulo NotiFlame é composto por um sistema embarcado e um aplicativo que tem
 </p>
 
 ## ✦ Tecnologias
-<div style="text-align: justify">
 Esse projeto foi desenvolvido com as seguintes tecnologias:
-</div>
+
 **Hardware:**
 - [ESP32](https://www.espressif.com/en/products/socs/esp32/overview)
 - Sensores:
@@ -39,22 +38,24 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Firebase | Cloud Firestore ](https://firebase.google.com/docs/firestore)
 
 ## ✦ Protótipo do Hardware
-<div style="text-align: justify">
+<p align="justify">
 Segue abaixo uma representação simbólica dos sensores, jumpers e do microcontrolador ESP32 utilizados para a construção do módulo físico. O diagrama foi elaborado utilizando o software <a href="https://fritzing.org/home/">Fritzing</a>
-</div>
+</p>
 
 <h1 align="center">
     <img alt="Protoboard" title="Esquema" src="images/Protoboard.png" width="45%" />
 </h1>
 
 ## ✦ Arquitetura do Sistema
-<div style="text-align: justify">
+<p align="justify">
 A seguir, uma representação simbólica da arquitetura de comunicação entre o dispositivo mobile e a nuvem. Os dados interpretados pelo microcontrolador são enviados para o Google Cloud e esses por sua vez são armazenados no Cloud Firestore, um banco de dados NoSQL. O usuário com acesso pode consultar esses dados pelo aplicativo, na aba: Dashboard
-</div>
+</p>
 
 <h1 align="center">
     <img alt="Arquitetura" title="Esquema" src="images/Esquema.svg" width="80%" />
 </h1>
 
 ---
+<p align="justify">
 O projeto foi desenvolvido, para fins didáticos, durante a disciplina de Sistemas Embarcados do curso de Bacharelado em Ciência da Computação – Campus Florestal
+</p>
