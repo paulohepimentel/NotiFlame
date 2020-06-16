@@ -15,7 +15,6 @@
 <h1 align="center">
     <img alt="Telas" title="App" src="images/Telas.svg" width="100%"/>
 </h1>
-
 ## ✦ Projeto
 <p align="justify">
 O módulo NotiFlame é composto por um sistema embarcado e um aplicativo que tem como função primordial empregar o papel de interface homem-máquina, ou seja, realizar a comunicação entre os sistemas de um modo mais simples e intuitivo. O módulo embarcado é composto por dois sensores e um buzzer. Os dois primeiros são responsáveis por detectar tanto incêndio quanto um gás no ambiente que possa provocar o mesmo. O buzzer consiste basicamente de um alarme físico caso o usuário não tome conhecimento do perigo através do aplicativo (notificação).
