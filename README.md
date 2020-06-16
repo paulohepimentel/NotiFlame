@@ -56,7 +56,7 @@ Segue abaixo uma representação simbólica dos sensores, jumpers e do microcont
 ## ✦ Arquitetura do Sistema
 <br>
 <div style="text-align: justify">
-A seguir, uma representação simbólica da arquitetura de comunicação entre o dispositivo mobile e a nuvem. Os dados interpretados pelo microcontrolador são enviados para o Google Cloud e esses por sua vez são armazenados no Cloud Firestore, um banco de dados NoSQL. O usuário com acesso pode consultar esses dados pelo aplicativo, na aba: `Dashboard`
+A seguir, uma representação simbólica da arquitetura de comunicação entre o dispositivo mobile e a nuvem. Os dados interpretados pelo microcontrolador são enviados para o Google Cloud e esses por sua vez são armazenados no Cloud Firestore, um banco de dados NoSQL. O usuário com acesso pode consultar esses dados pelo aplicativo, na aba: Dashboard
 </div>
 
 <h1 align="center">
