@@ -42,18 +42,18 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Segue abaixo uma representação simbólica dos sensores, jumpers e do microcontrolador ESP32 utilizados para a construção do módulo físico. O diagrama foi elaborado utilizando o software <a href="https://fritzing.org/home/">Fritzing</a>
 </p>
 
-<h1 align="center">
+<p align="center">
     <img alt="Protoboard" title="Esquema" src="images/Protoboard.png" width="45%" />
-</h1>
+</p>
 
 ## ✦ Arquitetura do Sistema
 <p align="justify">
 A seguir, uma representação simbólica da arquitetura de comunicação entre o dispositivo mobile e a nuvem. Os dados interpretados pelo microcontrolador são enviados para o Google Cloud e esses por sua vez são armazenados no Cloud Firestore, um banco de dados NoSQL. O usuário com acesso pode consultar esses dados pelo aplicativo, na aba: Dashboard
 </p>
 
-<h1 align="center">
+<p align="center">
     <img alt="Arquitetura" title="Esquema" src="images/Esquema.svg" width="80%" />
-</h1>
+</p>
 
 ---
 <p align="justify">
