@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Logo" title="NotiFlame" src="images/NotiFlame.svg" width="350px" />
+    <img alt="Logo" title="NotiFlame" src="images/NotiFlame.svg" width="360px" />
 </h1>
 
 <p align="center">
