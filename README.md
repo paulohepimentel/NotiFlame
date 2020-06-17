@@ -3,13 +3,13 @@
 </h1>
 
 <p align="center">
-  <a href="#projeto">Projeto</a>
+  <a href="#-projeto">Projeto</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#tecnologias">Tecnologias</a>
+  <a href="#-tecnologias">Tecnologias</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#protótipo-do-hardware">Protótipo</a>
+  <a href="#-protótipo-do-hardware">Protótipo</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#arquitetura-do-sistema">Arquitetura</a>
+  <a href="#-arquitetura-do-sistema">Arquitetura</a>
 </p>
 
 <p align="center">
