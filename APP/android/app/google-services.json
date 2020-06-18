@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "173515291040",
+    "firebase_url": "https://notiflame4.firebaseio.com",
+    "project_id": "notiflame4",
+    "storage_bucket": "notiflame4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173515291040:android:8ebad7cddad254414bccc5",
+        "android_client_info": {
+          "package_name": "com.example.notiflame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173515291040-enuouek7jhro167jfc91gack8uo280v1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "YOUR GOOGLE API KEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173515291040-enuouek7jhro167jfc91gack8uo280v1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
